@@ -17,6 +17,8 @@ Export a year CSV if you want to obtain year data. A month if you want monthly d
 ## Story
 There's a tool in Spain provided by [public markets regulation authority CNMC](https://www.cnmc.es/sobre-la-cnmc/que-es-la-cnmc) that helps you compare between electric and gas power marketers so you can choose best rate for you. Tool is called [_Comparador de ofertas de energía_](https://comparador.cnmc.gob.es/). By providing your monthly / annual consumption data, it offers you public / regulated and private / free market rates available from several marketers, so you can choose best price available. You can compare how much you'd have paid for that period if electricity was provided by the listed marketers. 
 
+![Tool screenshot displaying results that show several electricity marketers and their yearly price](assets/results_sample.png)
+
 To provide electricity consumption data, you can download a CSV file containing electricity consumption data from your electric distribution company\*. Then, you can upload that CSV file to the tool so it can know how much electricity you use.
 
 > \***Marketers** are companies that sell electricity to you. **Distributors** are companies that manage electricity distribution to make it reach your house. They're different companies. You can know which distributor you are using to to get electricity from by checking your electricity bill.
